@@ -1,8 +1,8 @@
 # Notification Logger [![npm version](https://badge.fury.io/js/notification-logger.svg)](https://badge.fury.io/js/notification-logger)
 
-Ever wondered why you have to open the console every time you want to want to log a variable?
+Ever wondered, why do you have to open the console every time you want to log a variable?
 
-Notification Logger helps provide desktop notification for your console messages.
+Notification Logger helps provide desktop notifications for your console messages.
 
 During development, You have to check the browser's inspector periodically to see what your console.log()'s are saying.
 
